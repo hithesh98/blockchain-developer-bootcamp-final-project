@@ -3,7 +3,7 @@
 ### Problem 😕
 Meeting people in the virtual world can be hard. A reason people go to events is to meet and network with people that are attending the event. However, facilitating introductions on virtual events are often limited to breakout rooms in Zoom. Breakout rooms only last for the duration of time the event organisers have scheduled for it. How do you facilitate and incentivise networking between your attendees? 
 ### Solution💡
-One possible solution is to issue a POAP token to anyone who attends the event. Using this POAP token as a ticket for a matchmaking service that randomly matches you to another attendee. 
+One possible solution is to issue a POAP token to anyone who attends the event. Using this POAP token as a ticket for a matchmaking service that randomly matches you to another attendee. A meeting link is generated and sent to both attendees.
 ### Outcome🌍
 - Event organisers who implement this solution give people more incentive to attend.
 - Provided POAP tokens are distributed correctly, it allows a way to network with people who verifiably attended the event.
